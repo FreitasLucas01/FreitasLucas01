@@ -4,7 +4,7 @@ I'm a programmer student passionate about the best web development technologies 
 
 🔭 I'm currently taking a 50 hours course focused on front end development. </br>
 🌱 I'm currently learning HTML, CSS, Javascript, React and Mongo DB.</br>
-⚡Fun fact: I have a degree in psychology.</br></br>
+⚡Fun fact: I have a degree in psychology.</br>
 
 <div>
   <a href="https://github.com/FreitasLucas01">
