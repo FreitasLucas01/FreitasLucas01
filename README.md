@@ -1,10 +1,10 @@
-### Hi! I'm Lucas Freitas 👋
-I'm a programmer student passionate about the best web development technologies and currently studying HTML, CSS, Javascript, React and Mongo DB. I recently got a certificate of completion from Google Grasshopper for Coding Fundamentals II. You can check in my LinkedIn page.
+### Olá! Aqui é o Lucas Freitas 👋
+Sou estudante de programação apaixonado pelas tecnologias de desenvolvimento web, e atualmente foco meus esforços em aprender HTML, CSS, Javascript, React e Mongo DB. Recentemente consegui meus primeiros certificados em Fundamentos da Programação e Fundamentos da Codificação pelo Google Grasshopper. 
 
 
-🔭 I'm currently taking a 50 hours course focused on front end development. </br>
-🌱 I'm currently learning HTML, CSS, Javascript, React and Mongo DB.</br>
-⚡Fun fact: I have a degree in psychology.</br>
+🔭 Faço um curso de Front End com carga horária de 50 horas. </br>
+🌱 Comecei a estudar programação em Julho de 2021.</br>
+⚡ Fato curioso: Sou formado em psicologia</br>
 
 <div>
   <a href="https://github.com/FreitasLucas01">
