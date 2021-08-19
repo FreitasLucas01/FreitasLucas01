@@ -4,7 +4,7 @@ Sou estudante de programação apaixonado pelas tecnologias de desenvolvimento w
 
 🔭 Faço um curso de Front End com carga horária de 50 horas. <br>
 🌱 Comecei a estudar programação em Julho de 2021.<br>
-⚡ Fato curioso: Sou formado em psicologia<br><br>
+⚡ Fato curioso: Sou formado em psicologia.<br><br>
 
 <div>
   <a href="https://github.com/FreitasLucas01">
