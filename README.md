@@ -1,4 +1,4 @@
-### How do you do fellow kids? Eu sou o Lucas Freitas 🖖🏽
+### Me chamo Lucas Freitas 🖖🏽
 Sou estudante de programação apaixonado pelas tecnologias de desenvolvimento web, e atualmente foco meus esforços em aprender HTML, CSS, Javascript, React JS e Mongo DB. Recentemente consegui meus primeiros certificados em Fundamentos da Programação e Fundamentos da Codificação pelo Google Grasshopper. <br><br>
 
 
