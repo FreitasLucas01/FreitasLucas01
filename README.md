@@ -1,5 +1,5 @@
 ### Me chamo Lucas Freitas 🖖🏽
-Sou estudante de programação apaixonado pelas tecnologias de desenvolvimento web, e atualmente foco meus esforços em aprender HTML, CSS, Javascript, React JS e Mongo DB. Recentemente consegui meus primeiros certificados em Fundamentos da Programação e Fundamentos da Codificação pelo Google Grasshopper. <br><br>
+Sou estudante de programação apaixonado pelas tecnologias de desenvolvimento web, e atualmente foco meus esforços em aprender HTML, CSS, SASS, Javascript, React JS. <br><br>
 
 
 🔭 Faço um curso de Front End com carga horária de 50 horas. <br>
