@@ -1,4 +1,4 @@
-### Me chamo Lucas Freitas 🖖🏽
+### Olá, eu sou o Lucas Freitas 🖖🏽
 Sou estudante de programação apaixonado pelas tecnologias de desenvolvimento web, e atualmente foco meus esforços em aprender HTML, CSS, SASS, Javascript, React JS. <br><br>
 
 
