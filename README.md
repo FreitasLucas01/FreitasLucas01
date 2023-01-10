@@ -1,5 +1,5 @@
 ### Olá, eu sou o Lucas Freitas 🖖🏽
-Sou estudante de programação apaixonado pelas tecnologias de desenvolvimento web, e atualmente foco meus esforços em aprender HTML, CSS, SASS, Javascript, React JS. <br><br>
+Sou dev Front End apaixonado pelas tecnologias de desenvolvimento web, e atualmente foco meus esforços em aprender HTML, CSS, SASS, Bootstrap, Javascript, React JS. <br><br>
 
 
 🔭 Faço um curso de Front End com carga horária de 50 horas. <br>
