@@ -1,8 +1,6 @@
 ### Olá, eu sou o Lucas Freitas 🖖🏽
 Sou dev Front End apaixonado pelas tecnologias de desenvolvimento web, e atualmente foco meus esforços me desenvolver cada vez mais em HTML, CSS, SASS, Bootstrap, Javascript, React JS. <br><br>
 
-
-🔭 Faço um curso de Front End com carga horária de 50 horas. <br>
 ⚡ Fato curioso: Sou formado em psicologia.<br><br>
 
 <div>
