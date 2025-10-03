@@ -1,6 +1,6 @@
 ### Olá, eu sou o Lucas Freitas 🖖🏽
 Sou desenvolvedor Full Stack com experiência empresas nacionais e internacionais, utilizando tecnologias como
-Angular, React ,Node.js, Next.js, TypeScript , Tailwind, Postman, Photoshop, Illustrator. Histórico com
+Angular, React ,Node.js, Next.js, Sequelize, TypeScript , Docker, Firebase, Tailwind, Postman, Photoshop, Illustrator, Figma. Histórico com
 desenvolvimento e manuntenção de aplicações complexas, sempre buscando entregar soluções robustas e
 escaláveis. <br><br>
 
