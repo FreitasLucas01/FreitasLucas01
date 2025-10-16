@@ -32,6 +32,9 @@ escaláveis. <br><br>
   
   <!-- Docker -->
   <img align="center" alt="Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+
+  
+  <img align="center" alt="Firebase / Firestore" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
 </div>
 
  </div> 
