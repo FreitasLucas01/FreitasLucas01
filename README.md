@@ -11,7 +11,7 @@ escaláveis. <br><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FreitasLucas01&layout=compact&langs_count=7&theme=dark"/>
   <div style="display: inline_block"><br>
 
-<div align="center">
+<div>
   <!-- React -->
   <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   
@@ -32,15 +32,6 @@ escaláveis. <br><br>
   
   <!-- Docker -->
   <img align="center" alt="Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  
-  <!-- RESTful API -->
-  <img align="center" alt="REST API" height="40" width="50" src="https://cdn-icons-png.flaticon.com/512/15588/15588408.png">
-  
-  <!-- Tailwind -->
-  <img align="center" alt="Tailwind CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
-  
-  <!-- UX/UI -->
-  <img align="center" alt="UX/UI" height="40" width="50" src="https://cdn-icons-png.flaticon.com/512/1157/1157109.png">
 </div>
 
  </div> 
