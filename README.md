@@ -1,6 +1,6 @@
 ### Olá, eu sou o Lucas Freitas 🖖🏽
 Sou desenvolvedor Full Stack com experiência empresas nacionais e internacionais, utilizando tecnologias como
-Angular, React ,Node.js, Next.js, Sequelize, TypeScript , Docker, Firebase, Tailwind, Postman, Photoshop, Illustrator, Figma. Histórico com
+Angular, React, React Native, Node.js, Next.js, Sequelize, TypeScript , Docker, Firebase, Tailwind, Postman, Photoshop, Illustrator, Figma. Histórico com
 desenvolvimento e manuntenção de aplicações complexas, sempre buscando entregar soluções robustas e
 escaláveis. <br><br>
 
@@ -11,12 +11,38 @@ escaláveis. <br><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FreitasLucas01&layout=compact&langs_count=7&theme=dark"/>
   <div style="display: inline_block"><br>
 
+<div align="center">
+  <!-- React -->
+  <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  
+  <!-- React Native -->
+  <img align="center" alt="React Native" height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg">
+  
+  <!-- Angular -->
   <img align="center" alt="Angular" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  
+  <!-- TypeScript -->
+  <img align="center" alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  
+  <!-- Node.js -->
+  <img align="center" alt="Node.js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  
+  <!-- Next.js -->
+  <img align="center" alt="Next.js" height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg">
+  
+  <!-- Docker -->
   <img align="center" alt="Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg">
+  
+  <!-- RESTful API -->
+  <img align="center" alt="REST API" height="40" width="50" src="https://cdn-icons-png.flaticon.com/512/15588/15588408.png">
+  
+  <!-- Tailwind -->
+  <img align="center" alt="Tailwind CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
+  
+  <!-- UX/UI -->
+  <img align="center" alt="UX/UI" height="40" width="50" src="https://cdn-icons-png.flaticon.com/512/1157/1157109.png">
+</div>
+
  </div> 
 <div> 
   <br>
